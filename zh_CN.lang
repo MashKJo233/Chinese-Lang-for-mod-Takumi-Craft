@@ -4,20 +4,20 @@ potion.virus=爬行者病毒
 potion.creepered=爬行者
 
 itemGroup.tabcreeper=爬行者世界
-itemGroup.tabcreeper.ae=爬行着世界：方块
+itemGroup.tabcreeper.ae=爬行者世界：方块
 
 item.ZombieCreeperEgg.name=僵尸爬行者生成蛋
 item.SilentCreeperEgg.name=寂静爬行者生成蛋
 item.SandCreeperEgg.name=黄沙爬行者生成蛋
-item.WaterCreeperEgg.name=Water Creeper Egg
-item.LavaCreeperEgg.name=Lava Creeper Egg
-item.FireCreeperEgg.name=Fire Creeper Egg
-item.IceCreeperEgg.name=Ice Creeper Egg
+item.WaterCreeperEgg.name=水之爬行者生成蛋
+item.LavaCreeperEgg.name=岩浆爬行者生成蛋
+item.FireCreeperEgg.name=火焰爬行者生成蛋
+item.IceCreeperEgg.name=冰霜爬行者生成蛋
 item.NaturalCreeperEgg.name=Natural Creeper Egg
 item.LightCreeperEgg.name=Light Creeper Egg
 item.SlimeCreeperEgg.name=Slime Creeper Egg
-item.BlazeCreeperEgg.name=Blaze Creeper Egg
-item.YuCreeperEgg.name=Yu Creeper Egg
+item.BlazeCreeperEgg.name=烈焰人爬行者生成蛋
+item.YuCreeperEgg.name=“羽”爬行者生成蛋
 item.SkeltonCreeperEgg.name=Skeleton Creeper Egg
 item.ObjetCreeperEgg.name=Objet Creeper Egg
 item.ForestCreeperEgg.name=Forest Creeper Egg
