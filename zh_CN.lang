@@ -1,0 +1,585 @@
+﻿
+
+potion.explosion=Explosion particles
+potion.virus=Creeper Virus
+potion.creepered=Creeper
+potion.Inversion=Inversion
+
+itemGroup.tabcreeper=Takumi Craft
+itemGroup.tabcreeper.ae=TC Resistanced Blocks
+
+
+item.ZombieCreeperEgg.name=Zombie Creeper Egg
+item.SilentCreeperEgg.name=Silent Creeper Egg
+item.SandCreeperEgg.name=Sand Creeper Egg
+item.WaterCreeperEgg.name=Water Creeper Egg
+item.LavaCreeperEgg.name=Lava Creeper Egg
+item.FireCreeperEgg.name=Fire Creeper Egg
+item.IceCreeperEgg.name=Ice Creeper Egg
+item.NaturalCreeperEgg.name=Natural Creeper Egg
+item.LightCreeperEgg.name=Light Creeper Egg
+item.SlimeCreeperEgg.name=Slime Creeper Egg
+item.BlazeCreeperEgg.name=Blaze Creeper Egg
+item.YuCreeperEgg.name=Yu Creeper Egg
+item.SkeltonCreeperEgg.name=Skeleton Creeper Egg
+item.ObjetCreeperEgg.name=Objet Creeper Egg
+item.ForestCreeperEgg.name=Forest Creeper Egg
+item.CreeperFishEgg.name=CreeperFish Egg
+item.SquidCreeperEgg.name=Squid Creeper Egg
+item.SpiderCreeperEgg.name=Spider Creeper Egg
+item.FireWorkCreeperEgg.name=FireWorks Creeper Egg
+item.HappinessCreeperEgg.name=Happiness Creeper Egg
+item.GlassCreeperEgg.name=Glass Creeper Egg
+item.GlowCreeperEgg.name=Glowstone Creeper Egg
+item.StoneCEgg.name=Stone Creeper Egg
+item.WoodCEgg.name=Wood Creeper Egg
+item.DirtCEgg.name=Dirt Creeper Egg
+item.LostCEgg.name=Lost Creeper Egg
+item.MiniSCEgg.name=Mini Spider Creeper Egg
+item.BatCEgg.name=Bat Creeper Egg
+item.ArrowCEgg.name=Arrow Creeper Egg
+item.FallCEgg.name=Fall Creeper Egg
+item.WeatherCEgg.name=Weather Creeper Egg
+item.ColorCEgg.name=Color Creeper Egg
+item.OneCEgg.name=One Creeper Egg
+item.PigCEgg.name=Pig Creeper Egg
+item.CowCEgg.name=Cow Creeper Egg
+item.RabbitCEgg.name=Rabbit Creeper Egg
+item.SnowCEgg.name=Snow Creeper Egg
+item.WolfCEgg.name=Wolf Creeper Egg
+item.HorseCEgg.name=Horse Creeper Egg
+item.MusicCEgg.name=Music Creeper Egg
+item.SheepCEgg.name=Sheep Creeper Egg
+item.InversionCEgg.name=Inversion Creeper Egg
+item.FakeCEgg.name=Fake Creeper Egg
+item.GravityCEgg.name=Gravity Creeper Egg
+
+item.EnderCreeperEgg.name=Ender Creeper Egg
+item.BangCreeperEgg.name=Bang Creeper Egg
+item.WaterIceCreeperEgg.name=Water And Ice Creeper Egg
+item.FireLavaCreeperEgg.name=Fire And Lava Creeper Egg
+item.SandBombCreeperEgg.name=Sand And Bomb Creeper Egg
+item.GhastCreeperEgg.name=Ghast Creeper Egg
+item.DiamondCreeperEgg.name=Diamond Creeper Egg
+item.RedstoneCreeperEgg.name=RedStone Creeper Egg
+item.EPCreeperEgg.name=Explosion Particle Creeper Egg
+item.CannonCEgg.name=Cannon Creeper Egg
+item.SinobiCreeperEgg.name=Ninja Creeper Egg
+item.VoidCreeperEgg.name=Void Creeper Egg
+item.WitchCreeperEgg.name=Witch Creeper Egg
+item.DestructionCreeperEgg.name=Destruction Creeper Egg
+item.EmeraldCreeperEgg.name=Emerald Creeper Egg
+item.IronCreeperEgg.name=Iron Creeper Egg
+item.WrylyCreeperEgg.name=Wryly Creeper Egg
+item.DarkCreeperEgg.name=Dark Creeper Egg
+item.EarthCreeperEgg.name=Earth Creeper Egg
+item.ArtCreeperEgg.name=Art Creeper Egg
+item.RewriteCreeperEgg.name=Rewrite Creeper Egg
+item.GuardianCreeperEgg.name=Guardian Creeper Egg
+item.CrossCEgg.name=Cross Creeper Egg
+item.StraightCEgg.name=Straight Creeper Egg
+item.CreativeCEgg.name=Creative Creeper Egg
+item.ReverseCEgg.name=Reverse Creeper Egg
+item.ChankCEgg.name=Chank Creeper Egg
+item.LeadCEgg.name=Lead Creeper Egg
+item.CatCEgg.name=Cat Creeper Egg
+item.BirdCEgg.name=Bird Creeper Egg
+item.ChestCEgg.name=Chest Creeper Egg
+item.UpperCEgg.name=Upper Creeper Egg
+item.VirusCEgg.name=Virus Creeper Egg
+item.RushCEgg.name=Rush Creeper Egg
+item.GorgCEgg.name=Gorgeous Creeper Egg
+item.FighterCEgg.name=Fighter Creeper Egg
+item.CBigFishEgg.name=Creeper Big Fish Egg
+item.LuckyCEgg.name=Lucky Creeper Egg
+item.MagicalCEgg.name=Magical Creeper Egg
+item.BedCEgg.name=Bed Creeper Egg
+item.AcidCEgg.name=Acid Creeper Egg
+item.EvoCEgg.name=Evolution Creeper Egg
+item.CraftsmanCEgg.name=Craftsman Creeper Egg
+item.SeaGuardianCEgg.name=Sea Guardian Creeper Egg
+item.EnderMiteCEgg.name=Endermite Creeper Egg
+item.PigmanCEgg.name=Zombie Pigman Creeper Egg
+item.KillerCEgg.name=Killer Creeper Egg
+item.RoundCEgg.name=Round Creeper Egg
+item.PierceCEgg.name=Pierce Creeper Egg
+item.AmplifierCEgg.name=Amplifier Creeper Egg
+item.FloatCEgg.name=Float Creeper Egg
+
+item.TNTCreeperEgg.name=TNT Creeper Egg
+item.YukariCreeperEgg.name=Yukari Creeper Egg
+item.OfalenCreeperEgg.name=Ofalen Creeper Egg
+item.BoltCreeperEgg.name=Bolt Creeper Egg
+item.GiantCreeperEgg.name=Giant Zombie Creeper Egg
+item.KingCreeperEgg.name=King Creeper Egg
+item.DragonCEgg.name=Creeper Dragon Egg
+item.WitherCreeperEgg.name=Wither Creeper Egg
+item.EmperorCreeperEgg.name=Emperor Creeper Egg
+item.RareCreeperEgg.name=Rare Creeper Egg
+item.DemonCreeperEgg.name=Demon Creeper Egg
+item.BigCEgg.name=Big Creeper Egg
+item.AnivCEgg.name=Anniversary Creeper Egg
+item.DCEgg_Evo.name=Diamond Creeper[Evo] Egg
+item.ParalysisCEgg.name=Paralysis Creeper Egg
+item.AngelCEgg.name=Angel Creeper Egg
+
+item.DragonCore.name=Emperor Core
+item.ExplosionBall.name=Creeper's ThrowBomb
+item.CreeperRod.name=Creeper Rod
+item.BoltStone.name=Bolt Stone
+item.KingCreeperCore.name=King Creeper Core
+item.OfalenStone.name=Ofalen Stone
+item.KaizinZai.name=Anti Explosion-Particle Potion
+item.DimKit.name=Takumi Dimension Kit
+item.WoodenTakumiDoor.name=Creeper Wooden Door
+item.IronTakumiDoor.name=Creeper Iron Door
+item.TDiamond.name=Creeper Magic Stone
+item.Shougatu.name=New Year Core
+
+item.CreeperBowGun.name=Creeper Bow Gun
+item.BakuRetuArrow.name=Explosion Arrow
+item.BakuSaiArrow.name=Destroyer Arrow
+item.KantuArrow.name=Pierce Arrow
+item.SanArrow.name=BuckShot Arrow
+item.BigBangArrow.name=BigBang Arrow
+
+item.CreeperBow.name=Creeper Bow
+item.HaArrow.name=Burst Arrow
+
+item.CreeperArmorHelmet.name=Creeper Armor Helmet
+item.CreeperArmorChest.name=Creeper Armor Chest
+item.CreeperArmorLeggings.name=Creeper Armor Leggings
+item.CreeperArmorBoots.name=Creeper Armor Boots
+
+item.EmperorArmorHelmet.name=Emperor Armor Helmet
+item.EmperorArmorChest.name=Emperor Armor Chest
+item.EmperorArmorLeggings.name=Emperor Armor Leggings
+item.EmperorArmorBoots.name=Emperor Armor Boots
+
+item.CreeperPickaxe.name=Creeper Pickaxe
+item.CreeperShovel.name=Creeper Shovel
+item.CreeperAxe.name=Creeper Axe
+item.MSPickaxe.name=Mine Sweeper Pickaxe
+item.MSShovel.name=Mine Sweeper Shovel
+item.MSAxe.name=Mine Sweeper Axe
+item.CreeperSword.name=Creeper Sword
+item.TPChecker.name=TP Checker
+item.MagicTool.name=Magic Tool
+item.MagicBow.name=Magic Bow
+item.CreeperGun.name=Creeper Gun
+item.CreeperKnife.name=Creeper Knife
+item.CreeperMeat.name=Exploded meat
+
+item.EmeraldBucket.name=Emerald Bucket
+item.EmeraldBucket_TW.name=Takumi Water Emerald Bucket
+item.EmeraldBucket_YU.name=Hot Spring Emerald Bucket
+item.EmeraldBucket_EP.name=Explosion Particle Emerald Bucket
+
+item.EnergyCore.0.name=Creeper Energy Core
+item.EnergyCore.1.name=Creeper Energy Core[Attack]
+item.EnergyCore.2.name=Creeper Energy Core[Defense]
+item.EnergyCore.3.name=Creeper Energy Core[Support]
+item.TakumiDrink.name=Creeper Energy Drink
+item.TakumiHammmer.name=Creeper Hammer
+item.BattleAH.name=Blocker Armor Helmet
+item.BattleAC.name=Blocker Armor Chest
+item.BattleAL.name=Blocker Armor Leggings
+item.BattleAB.name=Blocker Armor Boots
+item.CreeperCannon_B.name=Creeper Cannon Barrel
+item.CreeperCannon.name=Creeper Cannon
+item.CannonBall.0.name=Cannon Ball[Explosion]
+item.CannonBall.1.name=Cannon Ball[Poison]
+item.CannonBall.2.name=Cannon Ball[Bolt]
+item.CannonBall.3.name=Cannon Ball[Acid]
+item.CannonBall.4.name=Cannon Ball[Fly]
+
+item.ItemWara.name=Creeper Wheat
+item.CreeperRice.name=Creeper Seed
+item.Onigiri.name=Rice Ball
+
+item.CreeperShield.name=Creeper Shield
+item.Rods.0.name=Destruction Rod
+item.Rods.1.name=Rewrite Rod
+
+item.EvoCore.name=Evolution Core
+item.Laser.name=Laser Magazine
+item.WeatherBall.name=Weather Ball
+item.EvoSW.name=Weather Sword
+item.CreeperFloater.name=Gravity Floater
+item.ArkTreasure.name=Treasure of Ark
+
+tile.CreeperTNT.name=TAKUMI TNT
+tile.BoltBomb.name=Bolt Creeper Bomb
+tile.OfalenBomb.name=Ofalen Creeper Bomb
+tile.TNTBomb.name=TNT Creeper Bomb
+tile.GiantBomb.name=Giant Creeper Bomb
+tile.KingBomb.name=King Creeper Bomb
+tile.EmperorBomb.name=Emperor Creeper Bomb
+tile.DestBomb.name=Destruction Creeper Bomb
+tile.RewriteBomb.name=Rewrite Creeper Bomb
+tile.FireWorkBomb.name=Firework Creeper Bomb
+tile.PoweredBomb.name=Powered Creeper Bomb
+tile.YukariBomb.name=Yukari Creeper Bomb
+tile.CreeperBomb.name=Creeper Bomb
+tile.oreGunPowder.name=GunPowder Ore
+tile.CreeperBrick.name=Creeper Brick
+tile.CreeperSteel.name=Creeper Steel
+tile.CreeperOfalenBlock.name=Creeper Ofalen Block
+
+tile.CreeperGlass.0.name=Creeper White Glass
+tile.CreeperGlass.1.name=Creeper Orange Glass
+tile.CreeperGlass.2.name=Creeper Magenta Glass
+tile.CreeperGlass.3.name=Creeper Light Blue Glass
+tile.CreeperGlass.4.name=Creeper Yellow Glass
+tile.CreeperGlass.5.name=Creeper Lime Glass
+tile.CreeperGlass.6.name=Creeper Pink Glass
+tile.CreeperGlass.7.name=Creeper Gray Glass
+tile.CreeperGlass.8.name=Creeper Light Gray Glass
+tile.CreeperGlass.9.name=Creeper Cyan Glass
+tile.CreeperGlass.10.name=Creeper Purple Glass
+tile.CreeperGlass.11.name=Creeper Blue Glass
+tile.CreeperGlass.12.name=Creeper Brown Glass
+tile.CreeperGlass.13.name=Creeper Green Glass
+tile.CreeperGlass.14.name=Creeper Red Glass
+tile.CreeperGlass.15.name=Creeper Black Glass
+
+tile.CreeperStaindGlass.0.name=Creeper White StaindGlass
+tile.CreeperStaindGlass.1.name=Creeper Orange StaindGlass
+tile.CreeperStaindGlass.2.name=Creeper Magenta StaindGlass
+tile.CreeperStaindGlass.3.name=Creeper Light Blue StaindGlass
+tile.CreeperStaindGlass.4.name=Creeper Yellow StaindGlass
+tile.CreeperStaindGlass.5.name=Creeper Lime StaindGlass
+tile.CreeperStaindGlass.6.name=Creeper Pink StaindGlass
+tile.CreeperStaindGlass.7.name=Creeper Gray StaindGlass
+tile.CreeperStaindGlass.8.name=Creeper Light Gray StaindGlass
+tile.CreeperStaindGlass.9.name=Creeper Cyan StaindGlass
+tile.CreeperStaindGlass.10.name=Creeper Purple StaindGlass
+tile.CreeperStaindGlass.11.name=Creeper Blue StaindGlass
+tile.CreeperStaindGlass.12.name=Creeper Brown StaindGlass
+tile.CreeperStaindGlass.13.name=Creeper Green StaindGlass
+tile.CreeperStaindGlass.14.name=Creeper Red StaindGlass
+tile.CreeperStaindGlass.15.name=Creeper Black StaindGlass
+
+tile.CreeperAltar.name=Creeper Altar
+tile.TWFrame.name=Takumi Dimension Portal Flame
+tile.CreeperOres.0.name=Creeper GunPowder Ore
+tile.CreeperOres.1.name=Creeper Coal Ore
+tile.CreeperOres.2.name=Creeper Iron Ore
+tile.CreeperOres.3.name=Creeper RedStone Ore
+tile.CreeperOres.4.name=Creeper LapisLazuli Ore
+tile.CreeperOres.5.name=Creeper Emerald Ore
+tile.CreeperOres.6.name=Creeper Gold Ore
+tile.CreeperOres.7.name=Creeper Diamond Ore
+tile.CreeperOres.8.name=Creeper Magic Ore
+tile.CreeperDirt.name=Creeper Dirt
+tile.CreeperGrass.name=Creeper Grass
+tile.CreeperStone.name=Creeper Stone
+tile.CreeperStoneStairs.name=Creeper Stone Stairs
+tile.TakumiWoods.name=Creeper Tree Wood
+tile.TakumiLeaves.name=Creeper Tree Leaves
+tile.TakumiSapling.name=Creeper Tree Saplings
+tile.TakumiPlanks.name=Creeper Planks
+tile.TakumiPlanksStairs.name=Creeper Planks Stairs
+tile.WoodenTakumiDoor.name=Creeper Wooden Door
+tile.IronTakumiDoor.name=Creeper Iron Door
+tile.AttackBlock.name=Creeper Attack Block
+tile.TakumiTrap.name=Creeper Trap
+tile.TakumiWall.name=Creeper Wall
+tile.TakumiWallBase.name=Creeper Wall
+tile.tMagic.name=Creeper Magic Stone Block
+tile.FighterBlock.name=YMS-Fighter Block
+
+tile.CreeperChest.name=Creeper Chest
+tile.CreeperChest.message.0=locked CreeperChest.
+tile.CreeperChest.message.1=This CreeperChest was locked.
+tile.CreeperFurnace.name=Creeper Furnace
+tile.CreeperFurnace_L.name=Creeper Furnace
+tile.CreeperHopper.name=Creeper Hopper
+tile.CreeperBrewingStand.name=Creeper Brewing Stand
+tile.CreeperCraftingTable.name=Creeper Crafting Table
+
+tile.CreeperFence.0.name=Creeper Wooden Fence
+tile.CreeperFence.1.name=Creeper Stone Fence
+tile.CreeperFence.2.name=Creeper Brick Fence
+tile.CreeperFence.3.name=Creeper Iron Fence
+
+tile.CreeperTorch.name=Creeper Torch
+tile.CreeperLadder.name=Creeper Ladder
+tile.CreeperRail.name=Creeper Rail
+tile.CreeperIce.name=Creeper Ice
+
+tile.CreeperColor.0.name=Creeper White Wool
+tile.CreeperColor.1.name=Creeper Orange Wool
+tile.CreeperColor.2.name=Creeper Magenta Wool
+tile.CreeperColor.3.name=Creeper Light Blue Wool
+tile.CreeperColor.4.name=Creeper Yellow Wool
+tile.CreeperColor.5.name=Creeper Lime Wool
+tile.CreeperColor.6.name=Creeper Pink Wool
+tile.CreeperColor.7.name=Creeper Gray Wool
+tile.CreeperColor.8.name=Creeper Light Gray Wool
+tile.CreeperColor.9.name=Creeper Cyan Wool
+tile.CreeperColor.10.name=Creeper Purple Wool
+tile.CreeperColor.11.name=Creeper Blue Wool
+tile.CreeperColor.12.name=Creeper Brown Wool
+tile.CreeperColor.13.name=Creeper Green Wool
+tile.CreeperColor.14.name=Creeper Red Wool
+tile.CreeperColor.15.name=Creeper Black Wool
+
+tile.CreeperCarpet.0.name=Creeper White Carpet
+tile.CreeperCarpet.1.name=Creeper Orange Carpet
+tile.CreeperCarpet.2.name=Creeper Magenta Carpet
+tile.CreeperCarpet.3.name=Creeper Light Blue Carpet
+tile.CreeperCarpet.4.name=Creeper Yellow Carpet
+tile.CreeperCarpet.5.name=Creeper Lime Carpet
+tile.CreeperCarpet.6.name=Creeper Pink Carpet
+tile.CreeperCarpet.7.name=Creeper Gray Carpet
+tile.CreeperCarpet.8.name=Creeper Light Gray Carpet
+tile.CreeperCarpet.9.name=Creeper Cyan Carpet
+tile.CreeperCarpet.10.name=Creeper Purple Carpet
+tile.CreeperCarpet.11.name=Creeper Blue Carpet
+tile.CreeperCarpet.12.name=Creeper Brown Carpet
+tile.CreeperCarpet.13.name=Creeper Green Carpet
+tile.CreeperCarpet.14.name=Creeper Red Carpet
+tile.CreeperCarpet.15.name=Creeper Black Carpet
+
+tile.CreeperClay.0.name=Creeper White Clay
+tile.CreeperClay.1.name=Creeper Orange Clay
+tile.CreeperClay.2.name=Creeper Magenta Clay
+tile.CreeperClay.3.name=Creeper Light Blue Clay
+tile.CreeperClay.4.name=Creeper Yellow Clay
+tile.CreeperClay.5.name=Creeper Lime Clay
+tile.CreeperClay.6.name=Creeper Pink Clay
+tile.CreeperClay.7.name=Creeper Gray Clay
+tile.CreeperClay.8.name=Creeper Light Gray Clay
+tile.CreeperClay.9.name=Creeper Cyan Clay
+tile.CreeperClay.10.name=Creeper Purple Clay
+tile.CreeperClay.11.name=Creeper Blue Clay
+tile.CreeperClay.12.name=Creeper Brown Clay
+tile.CreeperClay.13.name=Creeper Green Clay
+tile.CreeperClay.14.name=Creeper Red Clay
+tile.CreeperClay.15.name=Creeper Black Clay
+
+tile.CreeperGravel.name=Creeper Gravel
+
+tile.TTBlock.name=Creeper Tower Block
+tile.TTBlock_L.name=Creeper Tower Block[Thunder]
+tile.TTBlock_C.0.name=Creeper Tower Block[Clear]
+tile.TTBlock_C.1.name=Creeper Tower Block[Clear]
+tile.TTBlock_M.name=Creeper Tower Block[Summon]
+tile.TTBlock_UM.name=Creeper Tower Block[Super Summon]
+tile.TTBlock_E.name=Creeper Tower Block[Explosion]
+tile.TTBlock_D.name=Creeper Tower Block[Dragon]
+tile.TTBlock_G.name=Creeper Tower Block[Guard]
+tile.TTBlock_B.name=Creeper Tower Block[Barriar]
+tile.TTBlock_T.name=Creeper Tower Block[Light]
+tile.TTBlock_2.name=Creeper Tower Block[Blue]
+tile.TTBlock_3.name=Creeper Tower Block[Red]
+
+tile.CreeperRiceBush.name=Creeper Wheat
+tile.BlockWara.name=Creeper Hay Bale
+
+tile.CreeperFence_G.name=Creeper Fence Gate
+tile.CreeperButton_W.name=Creeper Wooden Button
+tile.CreeperButton_S.name=Creeper Iron Button
+
+tile.PotionTNT.name=Brast Potion TNT
+
+tile.portal.name=Creeper Portal
+
+tile.TakumiWater.name=Creeper Water
+tile.Yu.name=Creeper Hot Spring
+tile.EP.name=Exposion Particle
+
+tile.blockAE.name=[resistanced]
+
+tile.CAcidBlock.name=Acid Block
+tile.SuperBlock.name=Hardest Creeper Block
+tile.SuperBlockStairs.name=Hardest Creeper Stairs
+tile.SuperBlockHalf.name=Hardest Creeper Slab
+
+tile.CrystalBlock.name=Creeper Crystal Block
+tile.GravityInput.name=Gravity Inputter
+tile.GravityOutput.name=Gravity Outputter
+tile.GravityFloat.name=Gravity Floater
+tile.GravityFloatOutput.name=Gravity Float Outputter
+tile.ArkCase.name=Creeper's Ark
+tile.ArkStatue.name=Creeper's Ark Statue
+tile.ArkTrap.name=Creeper's Ark Trap
+tile.ArkGravity.name=Creeper's Ark Elevator
+tile.ArkFloat.name=Creeper's Ark Floater
+tile.ArkTP.name=Creeper's Ark Teleporter
+tile.ArkBoss.name=Creeper's Ark Sealed
+tile.ArkLaser.name=Creeper's Ark Laser Cannon
+tile.ArkGoal.name=Creeper's Ark Treasure
+
+entity.TakumiMod.ZonbieCreeper.name=Zonbie Creeper
+entity.TakumiMod.SilentCreeper.name=Silent Creeper
+entity.TakumiMod.SandCreeper.name=Sand Creeper
+entity.TakumiMod.WaterCreeper.name=Water Creeper
+entity.TakumiMod.LavaCreeper.name=Lava Creeper
+entity.TakumiMod.FireCreeper.name=Fire Creeper
+entity.TakumiMod.IceCreeper.name=Ice Creeper
+entity.TakumiMod.EnderCreeper.name=Ender Creeper
+entity.TakumiMod.LightCreeper.name=Light Creeper
+entity.TakumiMod.SlimeCreeper.name=Creeper Slime
+entity.TakumiMod.BlazeCreeper.name=Creeper Blaze
+entity.TakumiMod.YuCreeper.name=Hot Spring Creeper
+entity.TakumiMod.SkeltonCreeper.name=Skeleton Creeper
+entity.TakumiMod.ObjetCreeper.name=Objet Creeper
+entity.TakumiMod.ForestCreeper.name=Forest Creeper
+entity.TakumiMod.CreeperFish.name=Creeper Fish
+entity.TakumiMod.SquidCreeper.name=Squid Creeper
+entity.TakumiMod.SpiderCreeper.name=Spider Creeper
+entity.TakumiMod.FireWorkCreeper.name=FireWorks Creeper
+entity.TakumiMod.HappinessCreeper.name=Happiness Creeper
+entity.TakumiMod.GlowCreeper.name=Glowstone Creeper
+entity.TakumiMod.StoneCreeper.name=Stone Creeper
+entity.TakumIMod.WoodCreeper.name=Wood Creeper
+entity.TakumiMod.DirtCreeper.name=Dirt Creeper
+entity.TakumiMod.LostCreeper.name=Lost Creeper
+entity.TakumiMod.MiniSpiderCreeper.name=Mini Spider Creeper
+entity.TakumiMod.BatCreeper.name=Bat Creeper
+entity.TakumiMod.ArrowCreeper.name=Arrow Creeper
+entity.TakumiMod.FallCreeper.name=Fall Creeper
+entity.TakumiMod.WeatherCreeper.name=Weather Creeper
+entity.TakumiMod.ColorCreeper.name=Color Creeper
+entity.TakumiMod.OneCreeper.name=One Creeper
+entity.TakumiMod.PigCreeper.name=Pig Creeper
+entity.TakumiMod.CowCreeper.name=Cow Creeper
+entity.TakumiMod.RabbitCreeper.name=Rabbit Creeper
+entity.TakumiMod.SnowCreeper.name=Snow Creeper
+entity.TakumiMod.WolfCreeper.name=Wolf Creeper
+entity.TakumiMod.HorseCreeper.name=Horse Creeper
+entity.TakumiMod.MusicCreeper.name=Music Creeper
+entity.TakumiMod.SheepCreeper.name=Sheep Creeper
+entity.TakumiMod.InversionCreeper.name=Inversion Creeper
+entity.TakumiMod.InversionCreeper.name=Fake Creeper
+entity.TakumiMod.GravityCreeper.name=Gravity Creeper
+
+entity.TakumiMod.NaturalCreeper.name=Natural Creeper
+entity.TakumiMod.BangCreeper.name=Bang Creeper
+entity.TakumiMod.WIC.name=Water Ice Creeper
+entity.TakumiMod.FLC.name=Fire Lava Creeper
+entity.TakumiMod.SBC.name=Sand Bang Creeper
+entity.TakumiMod.GhastCreeper.name=Ghast Creeper
+entity.TakumiMod.DC.name=Diamond Creeper
+entity.TakumiMod.RSC.name=Red Stone Creeper
+entity.TakumiMod.EPC.name=Explosion Particle Creeper
+entity.TakumiMod.CannonCreeper.name=Cannon Creeper
+entity.TakumiMod.SinobiCreeper.name=Sinobi Creeper
+entity.TakumiMod.VoidCreeper.name=Void Creeper
+entity.TakumiMod.WitchCreeper.name=Witch Creeper
+entity.TakumiMod.DestructionCreeper.name=Destruction Creeper
+entity.TakumiMod.EmeraldCreeper.name=Emerald Creeper
+entity.TakumiMod.IronCreeper.name=Iron Creeper
+entity.TakumiMod.WrylyCreeper.name=Wryly Creeper
+entity.TakumiMod.GlassCreeper.name=Glass Creeper
+entity.TakumiMod.DarkCreeper.name=Dark Creeper
+entity.TakumiMod.EarthCreeper.name=Earth Creeper
+entity.TakumiMod.ArtCreeper.name=Art Creeper
+entity.TakumiMod.RewriteCreeper.name=Rewrite Creeper
+entity.TakumiMod.GuardianCreeper.name=Guardian Creeper
+entity.TakumiMod.StraightCreeper.name=Straight Creeper
+entity.TakumiMod.CrossCreeper.name=Cross Creeper
+entity.TakumiMod.CreativeCreeper.name=Creative Creeper
+entity.TakumiMod.ReverseCreeper.name=Reverse Creeper
+entity.TakumiMod.ChankCreeper.name=Chank Creeper
+entity.TakumiMod.LeadCreeper.name=Lead Creeper
+entity.TakumiMod.CatCreeper.name=Cat Creeper
+entity.TakumiMod.BirdCreeper.name=Bird Creeper
+entity.TakumiMod.ChestCreeper.name=Chest Creeper
+entity.TakumiMod.UpperCreeper.name=Upper Creeper
+entity.TakumiMod.VirusCreeper.name=Virus Creeper
+entity.TakumiMod.RushCreeper.name=Rush Creeper
+entity.TakumiMod.GorgeousCreeper.name=Gorgeous Creeper 
+entity.TakumiMod.FighterCreeper.name=Fighter Creeper
+entity.TakumiMod.CreeperBigFish.name=Creeper Big Fish
+entity.TakumiMod.LuckyCreeper.name=Lucky Creeper
+entity.TakumiMod.MagicalCreeper.name=Magical Creeper
+entity.TakumiMod.BedCreeper.name=Bed Creeper
+entity.TakumiMod.AcidCreeper.name=Acid Creeper
+entity.TakumiMod.EvolutionCreeper.name=Evoliton Creeper
+entity.TakumiMod.CraftsmanCreeper.name=Craftsman Creeper
+entity.TakumiMod.SeaGuardianCreeper.name=Sea Guardian Creeper
+entity.TakumiMod.EnderMiteCreeper.name=Endermite Creeper
+entity.TakumiMod.PigmanCreeper.name=Zombie Pigman Creeper
+entity.TakumiMod.KillerCreeper.name=Killer Creeper
+entity.TakumiMod.RoundCreeper.name=Round Creeper
+entity.TakumiMod.PierceCreeper.name=Pierce Creeper
+entity.TakumiMod.AmplifierCreeper.name=Amplifier Creeper
+entity.TakumiMod.FloatCreeper.name=Float Creeper
+
+entity.TakumiMod.TNTCreeper.name=TNT Creeper
+entity.TakumiMod.YukariCreeper.name=Yukari Creeper
+entity.TakumiMod.OfalenCreeper.name=Ofalen Creeper
+entity.TakumiMod.BoltCreeper.name=Bolt Creeper
+entity.TakumiMod.GiantCreeper.name=Giant Creeper
+entity.TakumiMod.KingCreeper.name=King Creeper
+entity.TakumiMod.EmperorCreeper.name=Emperor Creeper
+
+entity.TakumiMod.CreeperDragon.name=Creeper Dragon
+entity.TakumiMod.WitherCreeper.name=Wither Creeper
+
+entity.TakumiMod.RareCreeper.name=Rare Creeper
+entity.TakumiMod.DemonCreeper.name=Demon Creeper
+
+entity.TakumiMod.BigCreeper.name=Big Creeper
+entity.TakumiMod.AnivCreeper.name=Anniversary Creeper
+entity.TakumiMod.ParalysisCreeper.name=Paralysis Creeper
+entity.TakumiMod.AngelCreeper.name=Angel Creeper
+
+entity.TakumiMod.CreeperCannon.name=Creeper Cannon
+entity.TakumiMod.AttackBlock.name=AttackBlock
+entity.TakumiMod.CreeperFighter.name=YMS-Fighter
+
+entity.TakumiMod.MagicalCreeper_Evo.name=Magical Creeper[Evo.]
+entity.TakumiMod.DestructionCreeper_Evo.name=Destruction Creeper[Evo.]
+entity.TakumiMod.EarthCreeper_Evo.name=Earth Creeper[Evo.]
+entity.TakumiMod.DarkCreeper_Evo.name=Dark Creeper[Evo.]
+entity.TakumiMod.CreativeCreeper_Evo.name=Creative Creeper[Evo.]
+entity.TakumiMod.EvolutionCreeper_Evo.name=Evoliton Creeper[Evo.]
+entity.TakumiMod.OfalenCreeper_Evo.name=Ofalen Creeper[Evo.]
+entity.TakumiMod.BoltCreeper_Evo.name=Bolt Creeper[Evo.]
+entity.TakumiMod.TNTCreeper_Evo.name=TNT Creeper[Evo.]
+entity.TakumiMod.RareCreeper_Evo.name=Rare Creeper[Evo.]
+entity.TakumiMod.DemonCreeper_Evo.name=Demon Creeper[Evo.]
+entity.TakumiMod.DC_Evo.name=Diamond Creeper[Evo.]
+
+item.DCFake.name=Diamond?
+tile.DCBomb.name=Diamond Block?
+
+enchantment.AntiMine=Mine Sweeper
+
+
+enchantment.ExplosionBarrier=Explosion Barrier
+
+enchantment.DisPowered=DisPowered
+enchantment.Bolt=Emperor Bolt
+
+container.CreeperFurnace=Creeper Furnace
+
+achievement.slayCreeperDragon=Slay CreeeperDragon
+achievement.slayCreeperDragon.desc=Slayed CreeperDragon
+
+achievement.clearArk=Ark Master
+achievement.clearArk.desc=Found a treasure in Ark
+
+takumicraft.message.gettp=Current TP : %1$s 
+takumicraft.message.startattack=Attack of creeper has been started.
+takumicraft.message.destroyedAttackBlock=Failed to defend of the Attack Block. 
+takumicraft.message.SummonedKing=Succseed to defend of the Attack Block.
+takumicraft.message.armor=Be a creeper.
+takumicraft.message.update=New TakumiCraft available.
+
+takumicraft.message.update.link=§n□凸□ Download here.
+ □凸□§r
+takumicraft.message.update.link.2=□凸□ Click "DOWNLOAD" in the icon of creeper on tasktray.
+ □凸□
+takumicraft.message.dl=download TakumiCraft
+takumicraft.message.luck=was damaged by killing Lucky Creeper!!
+takumicraft.message.fake=was betrayed by Fake Creeper!
+
+TakumiCraft=Woo! Takumi has come!!!
+TakumiCraft.credits=The texture of "Yukari Creeper" is made by Noraushi/Bahamut.
+TakumiCraft.newYear=Kimono
+TakumiCraft.Santa=Santa
