@@ -1,10 +1,10 @@
 #TakumiCraft English Langage File
 #general
-takumicraft.info.name=Takumi Craft
-takumicraft.description.name=Woo! Takumi has come!!!
-takumicraft.credits.name=The texture of "Yukari Creeper" is made by Noraushi/Bahamut.
-takumicraft.message.armor=Be a Creeper.
-takumicraft.message.bowgun=Hold Creeper Arrow or Creeper Bomb on your left hand.
+takumicraft.info.name=爬行者世界
+takumicraft.description.name=哇哦！爬行者来了！
+takumicraft.credits.name="于卡瑞"爬行者的材质由Noraushi和Bahamut制作。
+takumicraft.message.armor=做一只爬行者。
+takumicraft.message.bowgun=将爬行者箭与爬行者弓持在左手上。
 
 #tile
 tile.creeperbomb.name=Creeper Bomb
