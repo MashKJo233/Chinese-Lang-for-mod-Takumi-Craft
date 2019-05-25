@@ -2,7 +2,7 @@
 #general
 takumicraft.info.name=爬行者世界
 takumicraft.description.name=哇哦！爬行者来了！
-takumicraft.credits.name="于克瑞"爬行者的材质由Noraushi和Bahamut制作。
+takumicraft.credits.name="宇克瑞"爬行者的材质由Noraushi和Bahamut制作。
 takumicraft.message.armor=做一只爬行者。
 takumicraft.message.bowgun=将爬行者箭与爬行者弓持在左手上。
 
@@ -21,8 +21,8 @@ tile.creeperstainedglass.white.name=爬行者白玻璃
 tile.creeperstainedglass.orange.name=爬行者橘色玻璃
 tile.creeperstainedglass.magenta.name=爬行者品红玻璃
 tile.creeperstainedglass.light_blue.name=爬行者亮蓝色玻璃
-tile.creeperstainedglass.yellow.name=Creeper Yellow Glass
-tile.creeperstainedglass.lime.name=Creeper Lime Glass
+tile.creeperstainedglass.yellow.name=爬行者黄色玻璃
+tile.creeperstainedglass.lime.name=爬行者橙色玻璃
 tile.creeperstainedglass.pink.name=Creeper Pink Glass
 tile.creeperstainedglass.gray.name=Creeper Glay Glass
 tile.creeperstainedglass.silver.name=Creeper Silver Glass
