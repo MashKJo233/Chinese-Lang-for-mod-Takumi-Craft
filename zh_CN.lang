@@ -180,10 +180,10 @@ item.battlearmor_powered_chest.name=能量胸甲
 item.battlearmor_powered_legs.name=能量护腿
 item.battlearmor_powered_feet.name=能量靴子
 item.energycore_normal.name=能量核心
-item.energycore_red.name=Energy Core[Attack]
-item.energycore_blue.name=Energy Core[Defence]
-item.energycore_yellow.name=Energy Core[Support]
-item.makeup.name=Creeper Makeup
+item.energycore_red.name=能量核心[攻击]
+item.energycore_blue.name=能量核心[防御]
+item.energycore_yellow.name=能量核心[支援]
+item.makeup.name=爬行者化妆品
 
 #entity
 #desc max: 72 chars
