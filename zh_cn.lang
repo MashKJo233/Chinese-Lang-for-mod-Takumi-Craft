@@ -1,4 +1,4 @@
-#TakumiCraft English Langage File
+#TakumiCraft Chinese Language File
 #translated by MashKJo
 #general
 takumicraft.info.name=爬行者世界
@@ -236,7 +236,7 @@ entity.subsidencecreeper.desc=跌入地底，你会体验到全新的感觉。
 entity.straycreeper.name=流髑爬行者
 entity.straycreeper.desc=借助药水效果，玩家会受到缓慢效果。
 entity.parrotcreeper.name=鹦鹉爬行者
-entity.parrotcreeper.desc=一种看起来像鹦鹉的爬行者。你肩膀上有炸弹吗？
+entity.parrotcreeper.desc=一种看起来像鹦鹉的爬行者。它肩膀上有炸弹吗？
 entity.squidcreeper.name=鱿鱼爬行者
 entity.squidcreeper.desc=鱼雷？不，这是爆炸鱿鱼的时代！
 entity.frostcreeper.name=霜冻爬行者
@@ -255,9 +255,9 @@ entity.minispidercreeper.name=迷你蜘蛛爬行者
 entity.minispidercreeper.desc=微小的蜘蛛爬行者。那么它的爆炸威力如何？当然很大。
 entity.happinesscreeper.name=快乐爬行者
 entity.happinesscreeper.desc=治疗或毁灭？它会产生一个爆炸来治疗你。
-entity.ghastcreeper.name=Ghast Creeper
-entity.ghastcreeper.desc=Strong fireball, make nether to hell. Like a storm, or a heavy bomber.
-entity.glasscreeper.name=Glass Creeper
+entity.ghastcreeper.name=恶魂爬行者
+entity.ghastcreeper.desc=强有力的火球，让下界成为炼狱。像一个风暴，又像一个巨型轰炸机。
+entity.glasscreeper.name=玻璃爬行者
 entity.glasscreeper.desc=Anti-Explosion glass for you! A peaceful transparent creeper.
 entity.glowstonecreeper.name=GlowStone Creeper
 entity.glowstonecreeper.desc=Lighting up nether, this creeper make a light by the explosion.
