@@ -606,34 +606,34 @@ advancements.takumicraft.takumialtar.desc=获取爬行者祭坛
 advancements.takumicraft.ofalen.title=科学和魔法
 advancements.takumicraft.ofalen.desc=获取奥佛艾伦能量
 entity.creeper_hoge.name=爬行者
-advancements.takumicraft.slay.desc=被注册进了爬行者之书。
+advancements.takumicraft.slay.desc=被注册进了爬行者之书
 
 #enchantment
 enchantment.takumi_anti_powered=相反能量
 enchantment.takumi_explosion_protection=爆炸保护
-enchantment.takumi_minesweeper=扫雷车
+enchantment.takumi_minesweeper=扫雷
 enchantment.takumi_type_magic=魔法能量
 enchantment.takumi_type_dest=毁灭能量
 
 #potion
-takumisubsidence=Subsidence
-potion.effect.takumisubsidence=Potion of Subsidence
-splash_potion.effect.takumisubsidence=Splash Potion of Subsidence
-lingering_potion.effect.takumisubsidence=Lingering Potion of Subsidence
-inversion=inversion
-potion.effect.inversion=Potion of inversion
-splash_potion.effect.inversion=Splash Potion of Inversion
-lingering_potion.effect.inversion=Lingering Potion of Inversion
-creepered=Creepered
-potion.effect.creepered=Potion of Creepered
-splash_potion.effect.creepered=Splash Potion of Creepered
-lingering_potion.effect.creepered=Lingering Potion of Creepered
-explosionjump=Explosion Jump
-potion.effect.explosionjump=Potion of Explosion Jump
-splash_potion.effect.explosionjump=Splash Potion of Explosion Jump
-lingering_potion.effect.explosionjump=Lingering Potion of Explosion Jump
-ep=Explosion Particle
-creepervirus=Creeper Virus
+takumisubsidence=沉陷
+potion.effect.takumisubsidence=沉陷药水
+splash_potion.effect.takumisubsidence=喷溅型沉陷药水
+lingering_potion.effect.takumisubsidence=滞留型沉陷药水
+inversion=颠倒
+potion.effect.inversion=颠倒药水
+splash_potion.effect.inversion=喷溅型颠倒药水
+lingering_potion.effect.inversion=滞留型颠倒药水
+creepered=爬行者浸染
+potion.effect.creepered=爬行者浸染药水
+splash_potion.effect.creepered=喷溅型爬行者浸染药水
+lingering_potion.effect.creepered=滞留型爬行者浸染药水
+explosionjump=爆炸高跳
+potion.effect.explosionjump=爆炸高跳药水
+splash_potion.effect.explosionjump=喷溅型爆炸高跳药水
+lingering_potion.effect.explosionjump=滞留型爆炸高跳药水
+ep=爆炸粒子
+creepervirus=爬行着病毒
 
 #Vanilla
 item.skull.creeper.name=Creeper Head
