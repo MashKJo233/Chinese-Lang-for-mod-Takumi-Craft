@@ -569,12 +569,12 @@ entity.titancreeper.desc=一只泰坦把月球扔向了地面。
 
 
 #advancements
-advancements.takumicraft.root.title=Takumi Craft
-advancements.takumicraft.root.desc=Going into creeper chaotic world!
-advancements.takumicraft.creeperbomb.title=Creeper Bomb
-advancements.takumicraft.creeperbomb.desc=Got a creeper bomb.
-advancements.takumicraft.antiexplosion.title=Anti Explosion
-advancements.takumicraft.antiexplosion.desc=Got an anti-explosion block.
+advancements.takumicraft.root.title=爬行者世界
+advancements.takumicraft.root.desc=去到爬行者混乱无序的世界之中！
+advancements.takumicraft.creeperbomb.title=爬行者炸弹
+advancements.takumicraft.creeperbomb.desc=获得一个爬行者炸弹
+advancements.takumicraft.antiexplosion.title=防爆
+advancements.takumicraft.antiexplosion.desc=获得一个爬行者防爆方块
 advancements.takumicraft.disarmament.title=Disarmament
 advancements.takumicraft.disarmament.desc=Disarmament creeper's lighting armor.
 advancements.takumicraft.boltstone.title=Getting powered!
